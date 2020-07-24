@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-
+#该脚本仅支持Python2
 import getopt, sys
 from telnetlib import Telnet
 
